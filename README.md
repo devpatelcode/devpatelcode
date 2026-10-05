@@ -14,6 +14,7 @@ compliance pipelines to an AI tool that screens job applications.
 
 | Project | What it does | Stack |
 |---|---|---|
+| [AI Application Screener](https://github.com/devpatelcode/ai-application-screener) | Extended HackerRank's open-source hiring-agent into an LLM application screener: weighted 4-category rubric scored by a locally hosted LLM; benchmarked 2 models on 45 applications | Python, FastAPI, Ollama |
 | [BinBuddy](https://github.com/devpatelcode/BinBuddy) | Snap a photo, find out if it's recyclable | TensorFlow (MobileNetV2), Flask, React Native |
 | [PostureMaxx](https://github.com/devpatelcode/PostureMaxx) | Real-time posture classification from a webcam | Python, OpenCV, MediaPipe |
 | RNA structure research | Thermal adaptation of RNA structure across 7,880 transcripts from 1,154 yeast genomes; first-author poster (LaBella Lab) | Python, R, ViennaRNA, Slurm HPC |
